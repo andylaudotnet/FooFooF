@@ -1,0 +1,24 @@
+<publishData>
+  <publishTarget publishUrl="D:\foofoof\Issue\">
+    <file relUrl="CnInterface/img/logo_cninterface.gif" publishTime="03/15/2010 18:54:49" />
+    <file relUrl="Web.config" publishTime="03/11/2010 15:13:26" />
+    <file relUrl="img/yun123.gif" publishTime="03/05/2010 13:25:18" />
+    <file relUrl="js/index.js" publishTime="03/15/2010 17:22:30" />
+    <file relUrl="bin/foofoof.pdb" publishTime="03/15/2010 19:03:38" />
+    <file relUrl="MobileMessages.aspx" publishTime="03/10/2010 15:37:30" />
+    <file relUrl="Register.aspx" publishTime="03/10/2010 15:37:20" />
+    <file relUrl="bin/foofoof.XmlSerializers.dll" publishTime="03/09/2010 14:16:02" />
+    <file relUrl="SmsNormal.aspx" publishTime="03/12/2010 13:29:10" />
+    <file relUrl="img/menuBackGround.jpg" publishTime="03/09/2010 09:40:12" />
+    <file relUrl="img/backgroudimage.png" publishTime="03/09/2010 09:40:12" />
+    <file relUrl="CnInterface/Index.aspx" publishTime="03/15/2010 19:14:53" />
+    <file relUrl="img/indexHeader.jpg" publishTime="03/10/2010 16:13:26" />
+    <file relUrl="Index.aspx" publishTime="03/15/2010 19:07:34" />
+    <file relUrl="接口说明.txt" publishTime="03/12/2010 17:09:22" />
+    <file relUrl="CnInterface/js/index.js" publishTime="03/15/2010 17:30:38" />
+    <file relUrl="img/registerHeader.jpg" publishTime="03/10/2010 16:14:14" />
+    <file relUrl="bin/foofoof.dll" publishTime="03/15/2010 19:03:39" />
+    <file relUrl="stock.htm" publishTime="03/15/2010 17:23:28" />
+    <file relUrl="SmsFetion.aspx" publishTime="03/12/2010 14:35:16" />
+  </publishTarget>
+</publishData>
